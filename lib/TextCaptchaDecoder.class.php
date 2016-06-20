@@ -4,6 +4,7 @@ File: TextCaptchaDecoder.class.php
 Date: 06/21/2016
 Version 1.0.0
 Author: Glenn Prialde
+Contact: glenn@textcaptchadecoder.com
 Copyright Text Captcha Decoder http://www.textcaptchadecoder.com/ 2016. All rights reserved world-wide.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
