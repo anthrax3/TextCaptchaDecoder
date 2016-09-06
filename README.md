@@ -21,6 +21,7 @@ Usage
 ----
 Sponsors:
 
+- https://www.captchaco.in/
 - http://www.textcaptchadecoder.com/
-- http://www.captchasolutions.com/
+- https://www.captchasolutions.com/
 - https://www.isnare.com/
