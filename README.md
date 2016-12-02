@@ -25,3 +25,4 @@ Sponsors:
 - http://www.textcaptchadecoder.com/
 - https://www.captchasolutions.com/
 - https://www.isnare.com/
+- http://www.solvecaptchas.com/
